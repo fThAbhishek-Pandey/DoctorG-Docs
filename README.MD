@@ -6,12 +6,13 @@
  ##### Repos Link
  - [youtube: showcase](https://youtu.be/D_ODnnHNjro)
 ##### Live Project Link
- - [backend]()
- - [User Panel]()
- - [Admin Panel]()
+ - [backend](https://doctorgbackend.onrender.com)
+ - [User Panel](https://doctorg-two.vercel.app)
+ - [Admin Panel](https://doctorgadm.vercel.app)
+ ![working model](https://github.com/fThAbhishek-Pandey/DoctorG-Docs/blob/main/Assets/Appointment%20Doctor.png)
 ---
 
-# Healthcare Management System
+# Healthcare Management System (DoctorG)
 
 This repository contains the code for a comprehensive **Healthcare Management System**. It features distinct panels for **Users (Patients)**, **Doctors**, and **Admin**, allowing for smooth management of appointments, doctor-patient interactions, and system oversight.
 
