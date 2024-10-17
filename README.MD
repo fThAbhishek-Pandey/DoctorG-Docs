@@ -3,8 +3,12 @@
  - [Backend](https://github.com/fThAbhishek-Pandey/DoctorGBackend)
  - [Admin Panel](https://github.com/fThAbhishek-Pandey/Admin-Panal-DoctorG)
  - [Patient](https://github.com/fThAbhishek-Pandey/DoctorG-patient-panel)
- - [youtube: showcase]()
-
+ ##### Repos Link
+ - [youtube: showcase](https://youtu.be/D_ODnnHNjro)
+##### Live Project Link
+ - [backend]()
+ - [User Panel]()
+ - [Admin Panel]()
 ---
 
 # Healthcare Management System
