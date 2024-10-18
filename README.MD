@@ -95,15 +95,15 @@ This panel allows doctors to manage their schedules, profile, patient communicat
  - Backend
    
 ```bash
-   git clone https://github.com/yourusername/healthcare-management-system.git
+   git clone https://github.com/fThAbhishek-Pandey/DoctorGBackend.git
 ```
  - User Panel (Patient Interface)
 ```bash
-   git clone https://github.com/yourusername/healthcare-management-system.git
+   git clone https://github.com/fThAbhishek-Pandey/DoctorG-patient-panel.git
 ```
 - Admin Panel
 ```bash
-   git clone https://github.com/yourusername/healthcare-management-system.git
+   git clone https://github.com/fThAbhishek-Pandey/Admin-Panal-DoctorG.git
 ```
 2. Install dependencies:
 ```bash
@@ -111,7 +111,7 @@ This panel allows doctors to manage their schedules, profile, patient communicat
  ```
 
 3. Set up environment variables (.env) and database configurations using .env-templates
-
+    remember that the API key and seckret key is generate before starting razorpay
 4. Run the application:
 ```bash
    npm run dev
